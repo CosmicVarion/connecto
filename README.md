@@ -10,5 +10,5 @@ You may optionally provide a board dimension as a command line argument.
 
 The board by default is 5 by 5. 
 
-The front end relies on tkinter. To install for Python 3, you may use this command: 
+The front end relies on tkinter. To install for Python 3 on Ubuntu, you may use this command: 
 > sudo apt-get install python3-tk
